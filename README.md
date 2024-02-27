@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning. 
 - 💞️ I’m looking to collaborate on anything involving recurrent neural networks (RNNs)
 - 📫 Discord - sleepytimebaby
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Santiago Ramon y Cajal discvored, using Golgi's staining method, that neurons don't touch. Instead they communicate across tiny gaps; synapses. this crucial insight laid the groundwork for how toughts, memories , and movements
 are transmitted in the brain. 
 
