@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sleepytimebaby
-- 👀 I’m interested in neurobiology, machine-learning, and applying biological concepts to artificial intelligenc.
+- 👀 I’m interested in neurobiology, machine-learning, and applying biological concepts to artificial intelligence.
 - 🌱 I’m currently learning. 
 - 💞️ I’m looking to collaborate on anything involving recurrent neural networks (RNNs)
 - 📫 Discord - sleepytimebaby
