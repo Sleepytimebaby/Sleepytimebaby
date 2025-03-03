@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sleepytimebaby
 - 👀 I’m interested in neurobiology, machine-learning, and applying biological concepts to artificial intelligence.
 - 🌱 I’m currently learning. 
-- 💞️ I’m looking to collaborate on anything involving recurrent neural networks (RNNs)
+- 💞️ I’m looking to collaborate on anything involving recurrent neural networks (RNNs) and bioinformatics/tech
 - 📫 Discord - sleepytimebaby
 - ⚡ Fun fact: Santiago Ramon y Cajal discvored, using Golgi's staining method, that neurons don't touch. Instead they communicate across tiny gaps; synapses. this crucial insight laid the groundwork for how toughts, memories , and movements
 are transmitted in the brain. 
